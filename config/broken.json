@@ -1,0 +1,7 @@
+{
+    "title": "Broken config",
+    "description": "Invalid JSON on purpose: trailing comma after the last field",
+    "fields": [
+        { "id": "envWebUrl", "label": "WEB URL", "type": "url", "required": true, "envKey": "WEB_URL" },
+    ]
+}

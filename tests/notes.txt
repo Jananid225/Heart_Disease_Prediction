@@ -1,0 +1,1 @@
+This is a plain text note. Proofline should SKIP it (.txt is not a supported test type).
