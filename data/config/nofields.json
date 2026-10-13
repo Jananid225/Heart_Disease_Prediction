@@ -1,0 +1,4 @@
+{
+    "title": "No fields",
+    "description": "Valid JSON but there is no fields list, so Proofline should reject it"
+}
