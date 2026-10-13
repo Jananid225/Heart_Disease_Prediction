@@ -1,0 +1,16 @@
+{
+    "title": "Playwright Configuration File (Customizable)",
+    "description": "Fill in the required fields to run your Playwright automation test suite",
+    "fields": [
+        {
+            "id": "envWebUrl",
+            "label": "WEB URL",
+            "type": "url",
+            "placeholder": "https://example.com/",
+            "required": true,
+            "hint": "Enter the target web URL for the automation run.",
+            "errorMessage": "Please enter a valid URL",
+            "envKey": "WEB_URL"
+        }
+    ]
+}
